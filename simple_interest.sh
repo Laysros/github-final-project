@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# LAY Leangsros
+# Laysros
 
 # Input:
 # p, principal amount
